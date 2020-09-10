@@ -7,7 +7,7 @@ import javax.ws.rs.PathParam;
 
 
 
-@Path("/vi")
+@Path("/v1")
 public class KanjiNumbersResource {
   
 	@GET
